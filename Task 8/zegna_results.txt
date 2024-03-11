@@ -1,0 +1,4 @@
+Year,Period,Revenue (€ million),YoY Increase (%),cFX Increase (%),Organic Growth (%),Profit (€ million),Adjusted EBIT (€ million),Adjusted EBIT Margin (%),Cash Surplus (€ million)
+2022,FY,1492.8,15.5,11.0,,65.3,157.7,10.6,122.2
+2023,4Q,570,40.1,42.9,19.6,,,
+2023,FY,1900,27.6,29.7,19.3,,,
