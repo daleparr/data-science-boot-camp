@@ -1,5 +1,0 @@
-name = input("What is your name? ")
-age = input("How old are you? ")
-num = input("What is your house number? ")
-street = input("What us your street called? ")
-print (f"This is {name}. He is {age} years old and lives at house number {num} on {street} ")
